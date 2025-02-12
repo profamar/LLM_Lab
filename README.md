@@ -2,6 +2,16 @@
 
 Este repositório é dedicado ao estudo e desenvolvimento de Modelos de Linguagem Grande (LLMs). Aqui você encontrará recursos, implementações e tutoriais para aprofundar seu conhecimento e habilidades na área de Processamento de Linguagem Natural (PLN).
 
+
+![LLM_Lab Image](link_para_sua_imagem)
+
+Bem-vindo ao **LLM_Lab**!
+
+Este repositório é dedicado ao estudo e desenvolvimento de Modelos de Linguagem Grande (LLMs). Aqui você encontrará recursos, implementações e tutoriais para aprofundar seu conhecimento e habilidades na área de Processamento de Linguagem Natural (PLN).
+
+...
+
+
 ## Índice
 
 - [Introdução](#introdução)
@@ -41,14 +51,4 @@ O **contexto** refere-se à quantidade de tokens (palavras, frases ou código) q
 
 ---
 
-📌 **Repositório LinguisticMastery**  
-Este repositório explora diferentes modelos de **Processamento de Linguagem Natural (PLN)** e suas capacidades. Fique à vontade para contribuir! 🚀  
-
-## Instalação
-
-Para clonar o repositório e instalar as dependências, siga os passos abaixo:
-
-```sh
-git clone https://github.com/yourusername/LLM_Lab.git
-cd LLM_Lab
-pip install -r requirements.txt
+ 
