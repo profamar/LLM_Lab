@@ -2,7 +2,7 @@
 
 Este repositório é dedicado ao estudo e desenvolvimento de Modelos de Linguagem Grande (LLMs). Aqui você encontrará recursos, implementações e tutoriais para aprofundar seu conhecimento e habilidades na área de Processamento de Linguagem Natural (PLN).
 
-![Descrição da Imagem](URL_da_imagem)
+![Descrição da Imagem](https://github.com/profamar/LLM_Lab/blob/main/Design%20sem%20nome%20(16).png)
 
 
 ## Introdução
