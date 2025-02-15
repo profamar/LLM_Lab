@@ -2,15 +2,8 @@
 
 Este repositório é dedicado ao estudo e desenvolvimento de Modelos de Linguagem Grande (LLMs). Aqui você encontrará recursos, implementações e tutoriais para aprofundar seu conhecimento e habilidades na área de Processamento de Linguagem Natural (PLN).
 
+![Descrição da Imagem](URL_da_imagem)
 
-## Índice
-
-- [Introdução](#introdução)
-- [Objetivos](#objetivos)
-- [Instalação](#instalação)
-- [Uso](#uso)
-- [Contribuições](#contribuições)
-- [Licença](#licença)
 
 ## Introdução
 
