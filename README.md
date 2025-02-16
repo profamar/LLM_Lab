@@ -34,20 +34,6 @@ O **contexto** refere-se à quantidade de tokens (palavras, frases ou código) q
 > Modelos pagos geralmente oferecem maior capacidade de contexto e saída.
 
 ---
-Ok, aqui estão as instruções para criar a tabela no Google Sheets e formatá-la, junto com os passos para facilitar a sua vida.
-
-**Passo 1: Criar uma nova planilha no Google Sheets**
-
-1.  Acesse o Google Sheets: [https://sheets.google.com](https://sheets.google.com)
-2.  Clique no botão "+" para iniciar uma nova planilha em branco.
-
-**Passo 2: Inserir os cabeçalhos das colunas**
-
-1.  Na célula A1, digite "Nome".
-2.  Na célula B1, digite "Desenvolvedor".
-3.  Na célula C1, digite "Características Principais".
-
-**Passo 3: Inserir os dados**
 
 Copie e cole os dados abaixo nas linhas correspondentes da tabela, começando na linha 2.
 
