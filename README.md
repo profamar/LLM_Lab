@@ -36,3 +36,13 @@ O **contexto** refere-se à quantidade de tokens (palavras, frases ou código) q
 ---
 
  
+| Modelo          | Desenvolvedor        | Características                                                                                                                   |
+|-----------------|----------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| GPT-4           | OpenAI               | Multimodal (texto e imagens), melhor compreensão contextual, raciocínio lógico, criatividade, redução de viés, respostas seguras. |
+| GPT-3.5         | OpenAI               | Melhor eficiência computacional, coerência e precisão aprimoradas.                                                                 |
+| PaLM 2          | Google DeepMind      | Treinado em múltiplos idiomas e código, melhor desempenho em tarefas matemáticas, lógicas e científicas.                          |
+| Gemini 1.5      | Google DeepMind      | Multimodal (vídeos, áudio e texto), integração com ferramentas do Google.                                                           |
+| LLaMA 2         | Meta (Facebook)      | Código aberto, disponível em diferentes tamanhos, eficiência para execução em hardware acessível.                                 |
+| Claude 2/3      | Anthropic            | Focado em segurança e alinhamento ético, melhor desempenho em raciocínio de longo prazo, IA constitucional.                       |
+| Mistral/Mixtral | Mistral AI           | Mistral 7B (leve e open-source), Mixtral (arquitetura MoE para eficiência).                                                      |
+| Command R       | Cohere               | Focado em recuperação aumentada por IA (RAG), alta eficiência para consultas em bancos de dados de conhecimento.                 |
