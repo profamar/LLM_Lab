@@ -35,21 +35,7 @@ O **contexto** refere-se à quantidade de tokens (palavras, frases ou código) q
 
 ---
 
-Copie e cole os dados abaixo nas linhas correspondentes da tabela, começando na linha 2.
-
-| Nome           | Desenvolvedor     | Características Principais                                                                                                                                                                                                                                       |
-| -------------- | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| GPT-4          | OpenAI           | Multimodal (texto/imagem), raciocínio avançado, melhor segurança e alinhamento.                                                                                                                                                                                |
-| GPT-3.5        | OpenAI           | Eficiência aprimorada, mais coerência nas respostas, usado em chatbots.                                                                                                                                                                                         |
-| PaLM 2         | Google DeepMind  | Suporte a múltiplos idiomas e código, melhor desempenho matemático e lógico.                                                                                                                                                                                      |
-| Gemini 1.5     | Google DeepMind  | Multimodal avançado, integração com Google Docs e Sheets.                                                                                                                                                                                                     |
-| LLaMA 2        | Meta             | Código aberto, eficiente para hardware limitado, disponível em diferentes tamanhos.                                                                                                                                                                              |
-| Claude 2 & 3   | Anthropic        | Foco em segurança, IA constitucional, melhor em raciocínio de longo prazo.                                                                                                                                                                                       |
-| Mistral & Mixtral | Mistral AI      | Mistral 7B: leve e open-source; Mixtral: arquitetura MoE para eficiência.                                                                                                                                                                                      |
-| Command R      | Cohere           | Recuperação aumentada por IA (RAG), ideal para consultas em bases de conhecimento.                                                                                                                                                                            |
-
-
-
+                                                                                                                                                                      |
 **Tabela Final (Exemplo Visual)**
 
 | Nome           | Desenvolvedor     | Características Principais                                                                                                                                              |
