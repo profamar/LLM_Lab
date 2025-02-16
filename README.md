@@ -34,6 +34,70 @@ O **contexto** refere-se à quantidade de tokens (palavras, frases ou código) q
 > Modelos pagos geralmente oferecem maior capacidade de contexto e saída.
 
 ---
+Ok, aqui estão as instruções para criar a tabela no Google Sheets e formatá-la, junto com os passos para facilitar a sua vida.
+
+**Passo 1: Criar uma nova planilha no Google Sheets**
+
+1.  Acesse o Google Sheets: [https://sheets.google.com](https://sheets.google.com)
+2.  Clique no botão "+" para iniciar uma nova planilha em branco.
+
+**Passo 2: Inserir os cabeçalhos das colunas**
+
+1.  Na célula A1, digite "Nome".
+2.  Na célula B1, digite "Desenvolvedor".
+3.  Na célula C1, digite "Características Principais".
+
+**Passo 3: Inserir os dados**
+
+Copie e cole os dados abaixo nas linhas correspondentes da tabela, começando na linha 2.
+
+| Nome           | Desenvolvedor     | Características Principais                                                                                                                                                                                                                                       |
+| -------------- | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| GPT-4          | OpenAI           | Multimodal (texto/imagem), raciocínio avançado, melhor segurança e alinhamento.                                                                                                                                                                                |
+| GPT-3.5        | OpenAI           | Eficiência aprimorada, mais coerência nas respostas, usado em chatbots.                                                                                                                                                                                         |
+| PaLM 2         | Google DeepMind  | Suporte a múltiplos idiomas e código, melhor desempenho matemático e lógico.                                                                                                                                                                                      |
+| Gemini 1.5     | Google DeepMind  | Multimodal avançado, integração com Google Docs e Sheets.                                                                                                                                                                                                     |
+| LLaMA 2        | Meta             | Código aberto, eficiente para hardware limitado, disponível em diferentes tamanhos.                                                                                                                                                                              |
+| Claude 2 & 3   | Anthropic        | Foco em segurança, IA constitucional, melhor em raciocínio de longo prazo.                                                                                                                                                                                       |
+| Mistral & Mixtral | Mistral AI      | Mistral 7B: leve e open-source; Mixtral: arquitetura MoE para eficiência.                                                                                                                                                                                      |
+| Command R      | Cohere           | Recuperação aumentada por IA (RAG), ideal para consultas em bases de conhecimento.                                                                                                                                                                            |
+
+**Passo 4: Formatar a tabela**
+
+1.  **Negrito nos cabeçalhos:**
+    *   Selecione as células A1, B1 e C1.
+    *   Clique no botão "Negrito" (geralmente um "B" na barra de ferramentas).
+
+2.  **Ajustar a largura das colunas:**
+    *   **Opção 1 (Automática):** Clique no espaço entre os títulos das colunas (A e B, B e C) na barra superior da planilha (onde aparecem as letras das colunas). Dê um duplo clique. Isso ajustará a largura para acomodar o texto mais longo em cada coluna. Repita para cada coluna.
+    *   **Opção 2 (Manual):** Clique e arraste a linha entre os títulos das colunas para ajustar a largura manualmente.
+
+3.  **Alinhamento (opcional):**
+    *   Selecione todas as células com dados (A1 até a última célula preenchida).
+    *   Use os botões de alinhamento horizontal (esquerda, centro, direita) na barra de ferramentas para alinhar o texto conforme sua preferência.  Centralizado geralmente fica bom.
+    *   Da mesma forma ajuste o alinhamento vertical.
+
+4. **Quebra de Texto (Opcional)**
+
+*   Selecione a coluna "Características Principais" (clicando na letra C na parte superior da coluna).
+*   Vá em "Formatar" -> "Quebra de Texto" -> "Quebrar". Isso garante que textos longos dentro das células se ajustem ao espaço disponível, em vez de se estenderem para fora da célula.
+
+**Tabela Final (Exemplo Visual)**
+
+| Nome           | Desenvolvedor     | Características Principais                                                                                                                                              |
+| :------------- | :---------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **GPT-4**      | OpenAI           | Multimodal (texto/imagem), raciocínio avançado, melhor segurança e alinhamento.                                                                                           |
+| **GPT-3.5**    | OpenAI           | Eficiência aprimorada, mais coerência nas respostas, usado em chatbots.                                                                                                  |
+| **PaLM 2**     | Google DeepMind  | Suporte a múltiplos idiomas e código, melhor desempenho matemático e lógico.                                                                                              |
+| **Gemini 1.5** | Google DeepMind  | Multimodal avançado, integração com Google Docs e Sheets.                                                                                                                |
+| **LLaMA 2**    | Meta             | Código aberto, eficiente para hardware limitado, disponível em diferentes tamanhos.                                                                                        |
+| **Claude 2 & 3**| Anthropic        | Foco em segurança, IA constitucional, melhor em raciocínio de longo prazo.                                                                                                |
+| **Mistral & Mixtral**| Mistral AI      | Mistral 7B: leve e open-source; Mixtral: arquitetura MoE para eficiência.                                                                                                |
+| **Command R**  | Cohere           | Recuperação aumentada por IA (RAG), ideal para consultas em bases de conhecimento.                                                                                      |
+
+Essa tabela no Google Sheets estará formatada para facilitar a leitura e visualização dos dados sobre os LLMs.  Você pode adicionar bordas (selecionando as células e usando o botão "Bordas"), cores de preenchimento e outros elementos de formatação para personalizá-la ainda mais.
+
+---
  ## Comparativo dos Principais Modelos de Linguagem (LLMs) e suas Características
 
 | Modelo          | Desenvolvedor        | Características                                                                                                                   |
