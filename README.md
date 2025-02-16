@@ -34,7 +34,6 @@ O **contexto** refere-se à quantidade de tokens (palavras, frases ou código) q
 > Modelos pagos geralmente oferecem maior capacidade de contexto e saída.
 
 ---
-
  ## Comparativo dos Principais Modelos de Linguagem (LLMs) e suas Características
 
 | Modelo          | Desenvolvedor        | Características                                                                                                                   |
