@@ -62,25 +62,7 @@ Copie e cole os dados abaixo nas linhas correspondentes da tabela, começando na
 | Mistral & Mixtral | Mistral AI      | Mistral 7B: leve e open-source; Mixtral: arquitetura MoE para eficiência.                                                                                                                                                                                      |
 | Command R      | Cohere           | Recuperação aumentada por IA (RAG), ideal para consultas em bases de conhecimento.                                                                                                                                                                            |
 
-**Passo 4: Formatar a tabela**
 
-1.  **Negrito nos cabeçalhos:**
-    *   Selecione as células A1, B1 e C1.
-    *   Clique no botão "Negrito" (geralmente um "B" na barra de ferramentas).
-
-2.  **Ajustar a largura das colunas:**
-    *   **Opção 1 (Automática):** Clique no espaço entre os títulos das colunas (A e B, B e C) na barra superior da planilha (onde aparecem as letras das colunas). Dê um duplo clique. Isso ajustará a largura para acomodar o texto mais longo em cada coluna. Repita para cada coluna.
-    *   **Opção 2 (Manual):** Clique e arraste a linha entre os títulos das colunas para ajustar a largura manualmente.
-
-3.  **Alinhamento (opcional):**
-    *   Selecione todas as células com dados (A1 até a última célula preenchida).
-    *   Use os botões de alinhamento horizontal (esquerda, centro, direita) na barra de ferramentas para alinhar o texto conforme sua preferência.  Centralizado geralmente fica bom.
-    *   Da mesma forma ajuste o alinhamento vertical.
-
-4. **Quebra de Texto (Opcional)**
-
-*   Selecione a coluna "Características Principais" (clicando na letra C na parte superior da coluna).
-*   Vá em "Formatar" -> "Quebra de Texto" -> "Quebrar". Isso garante que textos longos dentro das células se ajustem ao espaço disponível, em vez de se estenderem para fora da célula.
 
 **Tabela Final (Exemplo Visual)**
 
