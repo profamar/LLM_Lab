@@ -35,7 +35,6 @@ O **contexto** refere-se à quantidade de tokens (palavras, frases ou código) q
 
 ---
 
-                                                                                                                                                                      |
 **Tabela Final (Exemplo Visual)**
 
 | Nome           | Desenvolvedor     | Características Principais                                                                                                                                              |
