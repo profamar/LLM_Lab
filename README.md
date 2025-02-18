@@ -13,7 +13,7 @@ Os **Modelos de Linguagem Grande (LLMs)** são modelos de aprendizado profundo q
 ![Descrição da Imagem](https://github.com/profamar/LLM_Lab/blob/main/Design%20sem%20nome%20(16).png)
 
 
-## 🚀 Projetos para Iniciantes
+## 🚀 Projetos Recomendados para Iniciantes
 
 ### 1️⃣ Gerador de Texto com GPT-like Models
 - Utilize um modelo pré-treinado, como **GPT-2/GPT-3** ou **LLaMA**, para gerar textos a partir de prompts.
