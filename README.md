@@ -17,8 +17,6 @@ Este repositório explora Modelos de Linguagem Grande (LLMs), usados em aplicaç
 - **Gemini** (Google DeepMind) – Modelo multimodal para imagens, fala e raciocínio.  
 - **Claude** (Anthropic) – IA avançada para análise, transcrição e geração de código.  
 
-Caso precise de mais informações, estou à disposição!
-
 
 ## 📌 Objetivos do Repositório
 
