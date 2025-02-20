@@ -1,7 +1,24 @@
 
 # LLM_Lab
 
-Os **Modelos de Linguagem Grande (LLMs)** são modelos de aprendizado profundo que conseguem entender e gerar texto humano com alta precisão. Eles são amplamente usados em várias aplicações, como **chatbots, tradutores automáticos, assistentes virtuais** e mais.
+Os **Modelos de Linguagem Grande (LLMs)** são modelos de aprendizado profundo que conseguem entender e gerar texto humano com alta precisão. 
+
+# Estudo e Desenvolvimento de LLMs  
+
+Este repositório explora Modelos de Linguagem Grande (LLMs), usados em aplicações como chatbots, tradutores e assistentes virtuais.  
+
+## Principais Modelos  
+
+- **GPT-4** (OpenAI) – Geração avançada de texto e compreensão de contexto.  
+- **BERT** (Google) – Processamento de linguagem natural eficiente.  
+- **T5** (Google) – Trata todas as tarefas NLP como tradução de texto.  
+- **RoBERTa** (Facebook AI) – Versão aprimorada do BERT.  
+- **XLNet** (Google & CMU) – Combina técnicas de BERT e GPT.  
+- **Gemini** (Google DeepMind) – Modelo multimodal para imagens, fala e raciocínio.  
+- **Claude** (Anthropic) – IA avançada para análise, transcrição e geração de código.  
+
+Caso precise de mais informações, estou à disposição!
+
 
 ## 📌 Objetivos do Repositório
 
